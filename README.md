@@ -12,10 +12,10 @@ How find : Just type Topic name and toutube channel name
 
 # YouTube Channel
 
-[Love Babbae](https://www.youtube.com/@CodeHelp) <br>
+[Love Babbar](https://www.youtube.com/@CodeHelp) <br>
 [Anuj Bhaiya](https://www.youtube.com/@AnujBhaiya) <br>
 [TechDose](https://www.youtube.com/@techdose4u) <br>
-[PeepCoding](https://www.youtube.com/@Pepcoding)
+[PepCoding](https://www.youtube.com/@Pepcoding)
 
 # 100% Guarantee you will be confident in dsa after completing these topic 
 
